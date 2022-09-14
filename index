@@ -1,0 +1,22 @@
+<p>- Una de las cosas que menos me gustan es sacarme fotos</p>
+				<p>- No soy muy pasiente con los niños</p>
+				<p>- No me gusta el ruido de la ciudad </p>
+			</div>
+			<div class="col-md-4">
+				<h2>
+					Sobre mi:
+				</h2>
+				<p>
+					Mi nombre es Rafhael Adolfo Condori Romaja, naci en la ciudad de Quillabamba y desde temprana edad
+					siempre mostre interez por la música. Decidi estudiar la carrera profesional de Ingeniería de
+					sistemas porque anteriormente tenia mucho interes sobre las tecnoloias, mas en oncreto con la
+					robotica. En mis ratos libres me gusta ver peliculas o animes, y cuando estoy solo, pongo música y empiezo a tocar la guitarra.
+				</p>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="carousel slide" id="carousel-102449">
+							<ol class="carousel-indicators">
+								<li data-slide-to="0" data-target="#carousel-102449" class="active">
+								</li>
+								<li data-slide-to="1" data-target="#carousel-102449">
+								</li>
